@@ -35,7 +35,7 @@ Now, with over a decade of hands-on experience, I’m building next-generation *
 - Hands-on experience in C# for game logic and Java for scripting advanced systems.  
 
 ### **📂 Databases**  
-- **Databases**: MySQL, SQLite  
+- **Databases**: MySQL, SQLite, Microsoft SQL Server  
 - Leveraged **JSON** as a lightweight database system.  
 - Skilled in designing, querying, and managing relational and key-value databases.  
 
