@@ -83,11 +83,11 @@ I also value collaboration and knowledge sharing, which is why I’m here on Git
 - **Bachelor’s Degree in Software Engineering**  
   - **Institution**: Islamic Azad University, East Tehran Branch  
   - **GPA**: 18.81/20  
-  - **Years**: 2018 – Present  
+  - **Years**: 2020 – 2024  
 
 - **High School Diploma in Mathematics and Physics**  
-  - **Institution**: Allameh Helli 3 Middle and High School  
-  - **Years**: 2014 – 2017  
+  - **Institution**: National Organization for Development of Exceptional Talents  
+  - **Years**: 2012 – 2018  
 
 ---
 
